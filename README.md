@@ -1,4 +1,8 @@
 ![Header](https://github.com/NitishKumar078/NitishKumar078/assets/101443757/5469c867-1849-4211-ad8d-48720d0ab3bd)<br/>
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NitishKumar078&label=Profile%20views&color=0e75b6&style=flat" alt="NitishKumar078" /> </p></br>
+
 #  Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-kumar-m) 
 
