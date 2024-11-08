@@ -54,6 +54,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NitishKumar078&repo=Spy&theme=shadow_blue" />
 </a>
 
-<img src="https://raw.githubusercontent.com/NitishKumar078/NitishKumar078/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NitishKumar078/NitishKumar078/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NitishKumar078/NitishKumar078/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com//NitishKumar078/NitishKumar078/output/github-snake.svg" />
+</picture>
 
-###
