@@ -52,12 +52,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=NitishKumar078&rank_icon=github) &nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitishKumar078&theme=buefy&hide_border=true_border=false&include_all_commits=false&count_private=false&layout=donut)<br><br/>
 <br/>
 
-## Top Repositories
-
-<a href="https://github.com/NitishKumar078/Spy">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=NitishKumar078&repo=Spy&theme=shadow_blue" />
-</a>
-
-<a href="https://github.com/NitishKumar078/Chrome_Ext-React_Boilerplate">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NitishKumar078&repo=Chrome_Ext-React_Boilerplate&theme=shadow_blue"/>
-</a>
